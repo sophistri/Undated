@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Undated</string>
+    <string name="widget_description">Your tasks with no due date</string>
+    <string name="calendar_widget_description">Month view of your tasks and events</string>
+</resources>
